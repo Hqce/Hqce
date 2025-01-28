@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hqce</h1>
 <h3 align="center">Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cruzedevelopment&label=Profile%20views&color=000000&style=flat" alt="cruzedevelopment" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hqce&label=Profile%20views&color=000000&style=flat" alt="hqce" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [FiveM GPT](https://discord.gg/pWFXuqPYwS)
+- 🔭 Currently, I'm engaged in developing [HS Services](https://discord.gg/hsservices)
 
 - 🌱 I'm currently immersing myself in the worlds of **C++ and Laravel to deepen my understanding of programming languages and web development.**
 
