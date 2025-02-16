@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hqce&label=Profile%20views&color=000000&style=flat" alt="hqce" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [HS Services](https://discord.gg/)
+- 🔭 Currently, I'm engaged in developing [https://discord.gg/cookiesserivces](https://discord.gg/)
 
 - 🌱 I'm currently immersing myself in the worlds of **LUA and web development to deepen my understanding of programming languages and web development.**
 
